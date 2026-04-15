@@ -10,7 +10,7 @@ This project is designed for retail managers and small business owners who aim t
 
 * Dataset: Superstore Sales Dataset
 * Source: Kaggle
-* Access Date:2026-04-15
+* Access Date: 2026-04-15
 * Key Fields: Sales, Profit, Quantity, Category, Sub-Category, Region, Order Date
 
 The dataset reflects real-world retail operations and supports analysis of revenue, cost efficiency, and profitability patterns.
