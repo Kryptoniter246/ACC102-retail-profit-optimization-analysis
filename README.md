@@ -48,7 +48,7 @@ jupyter notebook
 ### Step 2: Prepare dataset
 
 * Download the Superstore dataset
-* Place `superstore.csv` in the project folder
+* Place `data.sample. superstore.csv` in the project folder
 
 ### Step 3: Run the notebook
 
