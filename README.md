@@ -41,7 +41,8 @@ The dataset reflects real-world retail operations and supports analysis of reven
 ### Step 1: Install required libraries
 
 ```bash
-pip install pandas matplotlib
+pip install -r requirements.txt
+jupyter notebook
 ```
 
 ### Step 2: Prepare dataset
