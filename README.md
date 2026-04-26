@@ -70,7 +70,7 @@ Open `notebook.ipynb` and run all cells in order.
 
 ## 6. Product link / Demo
 
-* notebook link: http://localhost:8889/notebooks/notebook.ipynb
+* notebook link: [http://localhost:8889/notebooks/notebook.ipynb](https://github.com/Kryptoniter246/ACC102-retail-profit-optimization-analysis/blob/main/notebook.ipynb)
 * Demo Video:【ACC102 Track 2 Retail Profit Optimization: A Cost and Performance demo video】https://www.bilibili.com/video/BV1zXoKB8ERZ?vd_source=c8c9738cc881ceccaba5645084969be7
 
 ---
